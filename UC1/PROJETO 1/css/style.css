@@ -1,0 +1,18 @@
+table,tr,th,td{
+    border: 2px solid;
+    border-collapse: collapse;
+    }
+    #l2c1{
+        font-size: 25px;
+        color: #f13142;
+        background-color: cornflowerblue;
+    }
+    
+    .equipe04 th{
+        border: 6px solid pink;
+        border-radius: 10px;
+    }
+    .equipe04 td{
+        border: 6px solid yellow;
+        border-radius: 10px;
+    }
